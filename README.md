@@ -8,6 +8,10 @@
 
 4.[Dataset](#p4)
 
+Python 3.6 -64Bit link https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64-webinstall.exe
+
+Pycharm Link https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+
 
 
 ![](https://github.com/mu-ki/Emotion/blob/master/1.png)
